@@ -650,6 +650,10 @@ html {
   top: 0px;
 }
 
+.end-5 {
+  inset-inline-end: 1.25rem;
+}
+
 .z-20 {
   z-index: 20;
 }
